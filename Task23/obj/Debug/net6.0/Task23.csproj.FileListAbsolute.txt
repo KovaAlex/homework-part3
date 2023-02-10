@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/bin/Debug/net6.0/Task23
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/bin/Debug/net6.0/Task23.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/macbook/Desktop/для учебы/с#/Seminars/homework_s3/Task23/obj/Debug/net6.0/ref/Task23.dll
